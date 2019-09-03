@@ -1,0 +1,21 @@
+<svg width="150" height="150" xmlns="http://www.w3.org/2000/svg">
+
+ <title/>
+ <g>
+  <title>background</title>
+  <rect fill="none" id="canvas_background" height="402" width="582" y="-1" x="-1"/>
+ </g>
+ <g>
+  <title>Layer 1</title>
+  <path stroke-width="2px" stroke-miterlimit="10" stroke="#000000" fill="#fceebb" id="svg_1" d="m47.68,45.28c-8.05,-11 -8.76,-29.65 -0.1,-37.83a0.46,0.46 0 0 1 0.75,0.39c-0.64,10.41 8,19.66 14.08,24.8a5.53,5.53 0 0 1 -0.25,8.65l-6.76,5.07a5.51,5.51 0 0 1 -7.72,-1.08z" class="cls-1"/>
+  <path stroke-width="2px" stroke-miterlimit="10" stroke="#000000" fill="#fceebb" id="svg_2" d="m102.32,45.28c8.05,-11 8.76,-29.65 0.1,-37.83a0.46,0.46 0 0 0 -0.75,0.39c0.64,10.41 -8,19.66 -14.08,24.8a5.53,5.53 0 0 0 0.25,8.65l6.76,5.07a5.51,5.51 0 0 0 7.72,-1.08z" class="cls-1"/>
+  <path stroke-width="3px" fill="#7d7d81" stroke-miterlimit="10" stroke="#000000" id="svg_3" d="m102.39,50.21a6.47,6.47 0 0 0 2.5,-2c13.33,-16.51 35.17,-11.69 36.4,-7.66s-16,21 -32.45,16.59c-12.61,-3.33 -8.9,-5.9 -6.45,-6.93z" class="cls-2"/>
+  <path stroke-width="3px" fill="#7d7d81" stroke-miterlimit="10" stroke="#000000" id="svg_4" d="m47.61,50.21a6.47,6.47 0 0 1 -2.5,-2c-13.32,-16.46 -35.17,-11.64 -36.4,-7.61s16,21 32.45,16.59c12.61,-3.38 8.9,-5.95 6.45,-6.98z" class="cls-2"/>
+  <path stroke-width="4px" fill="#dbdbdb" stroke-miterlimit="10" stroke="#000000" id="svg_5" d="m116.48,68c0,28.66 -18.57,62.09 -41.48,62.09s-41.48,-33.46 -41.48,-62.09s18.57,-41.72 41.48,-41.72s41.48,13.03 41.48,41.72z" class="cls-3"/>
+  <ellipse fill="#e2bda8" stroke-width="4px" stroke-miterlimit="10" stroke="#000000" id="svg_6" ry="25.85" rx="30.3" cy="115.81" cx="75" class="cls-4"/>
+  <circle id="svg_7" r="5.01" cy="59.35" cx="56.3"/>
+  <circle id="svg_8" r="5.01" cy="59.35" cx="93.7"/>
+  <circle fill="#ffffff" stroke-width="2px" stroke-miterlimit="10" stroke="#000000" id="svg_9" r="5.52" cy="117.37" cx="62.82" class="cls-5"/>
+  <circle fill="#ffffff" stroke-width="2px" stroke-miterlimit="10" stroke="#000000" id="svg_10" r="5.52" cy="117.37" cx="87.18" class="cls-5"/>
+ </g>
+</svg>

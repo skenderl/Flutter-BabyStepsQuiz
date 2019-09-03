@@ -1,0 +1,21 @@
+<svg width="150" height="150" xmlns="http://www.w3.org/2000/svg">
+
+ <title/>
+ <g>
+  <title>background</title>
+  <rect fill="none" id="canvas_background" height="402" width="582" y="-1" x="-1"/>
+ </g>
+ <g>
+  <title>Layer 1</title>
+  <path stroke-width="4px" stroke-miterlimit="10" stroke="#000000" fill="#915a31" id="svg_1" d="m143.41,87.3c2.12,2.75 3.38,14.05 -4.72,14.05c-6.54,0 -22.6,-6.84 -22.6,-20.37s-18,-51.44 -18,-51.44c22.45,0 43.66,0.88 43.66,28.83c0.01,0 -0.46,26.18 1.66,28.93z" class="cls-1"/>
+  <path stroke-width="4px" stroke-miterlimit="10" stroke="#000000" fill="#915a31" id="svg_2" d="m6.59,87.3c-2.12,2.75 -3.38,14.05 4.72,14.05c6.54,0 22.6,-6.84 22.6,-20.37s18,-51.44 18,-51.44c-22.45,0 -43.66,0.88 -43.66,28.83c-0.01,0 0.46,26.18 -1.66,28.93z" class="cls-1"/>
+  <path fill="#a06538" stroke-width="4px" stroke-miterlimit="10" stroke="#000000" id="_Path_" d="m119.27,73.22c0,47.32 -16.91,61.52 -44.27,61.52s-44.27,-14.2 -44.27,-61.52s24.77,-58 44.27,-58s44.27,10.68 44.27,58z" class="cls-2"/>
+  <path fill="#d6d6d6" id="svg_3" d="m104.69,121.79c-6.7,7.46 -16.2,11 -29.69,11s-23,-3.49 -29.69,-11c2.94,-12.49 8,-26.67 14.06,-35.75c7.63,-11.44 10.12,-47.1 8.25,-68.22a48.91,48.91 0 0 1 14.76,0c-1.87,21.12 0.62,56.78 8.25,68.18c6.06,9.12 11.12,23.3 14.06,35.79z" class="cls-3"/>
+  <path stroke-width="2px" fill="#333333" stroke-miterlimit="10" stroke="#000000" id="svg_4" d="m75.77,119.33c-3.18,0 -15.65,-16.29 -14.62,-18.84s5.21,-5 14.62,-5s13.59,2.42 14.64,5s-11.41,18.84 -14.64,18.84z" class="cls-4"/>
+  <path fill="none" stroke-width="2px" stroke-miterlimit="10" stroke="#000000" id="svg_5" d="m82.41,122.37c-0.47,4.17 -4.25,6 -7.14,6s-6.67,-1.84 -7.13,-6" class="cls-5"/>
+  <circle fill="#ffffff" stroke-width="2px" stroke-miterlimit="10" stroke="#000000" id="svg_6" r="10.57" cy="75" cx="53.02" class="cls-6"/>
+  <circle fill="#ffffff" stroke-width="2px" stroke-miterlimit="10" stroke="#000000" id="svg_7" r="10.57" cy="75" cx="96.98" class="cls-6"/>
+  <circle id="svg_8" r="5.92" cy="75" cx="55.34"/>
+  <circle id="svg_9" r="5.92" cy="75" cx="94.66"/>
+ </g>
+</svg>

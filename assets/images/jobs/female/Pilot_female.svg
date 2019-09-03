@@ -1,0 +1,44 @@
+<svg width="48" height="48" xmlns="http://www.w3.org/2000/svg">
+
+ <title/>
+ <g>
+  <title>background</title>
+  <rect fill="none" id="canvas_background" height="402" width="582" y="-1" x="-1"/>
+ </g>
+ <g>
+  <title>Layer 1</title>
+  <path stroke-linejoin="round" stroke-linecap="round" stroke="#45413c" fill="#724f3d" id="_Path_" d="m24,7.23a10.17,10.17 0 0 1 10.17,10.17l0,13.26a1.17,1.17 0 0 1 -0.72,1.07l0,0a25.41,25.41 0 0 1 -18.9,0l0,0a1.17,1.17 0 0 1 -0.72,-1.07l0,-13.26a10.17,10.17 0 0 1 10.17,-10.17z" class="cls-1"/>
+  <ellipse opacity="0.15" fill="#45413c" ry="1.5" rx="13.5" id="_Ellipse_" cy="45.5" cx="24" class="cls-2"/>
+  <path fill="#656769" id="svg_1" d="m31.54,32.84l-7.54,-2.84l-7.54,2.87a6.76,6.76 0 0 0 -4.35,6.31l0,5.82l23.78,0l0,-5.85a6.76,6.76 0 0 0 -4.35,-6.31z" class="cls-3"/>
+  <path fill="#525252" id="svg_2" d="m15.64,35.3l1.55,-2.74l-0.73,0.28a6.76,6.76 0 0 0 -4.35,6.31l0,3a6.73,6.73 0 0 1 4.35,-6.3l0.56,-0.22l-1.38,-0.33z" class="cls-4"/>
+  <path fill="#525252" id="svg_3" d="m31.54,32.84l-0.73,-0.28l1.55,2.74l-1.36,0.34l0.56,0.22a6.73,6.73 0 0 1 4.35,6.3l0,-3a6.76,6.76 0 0 0 -4.37,-6.32z" class="cls-4"/>
+  <path fill="none" stroke-linejoin="round" stroke-linecap="round" stroke="#45413c" id="svg_4" d="m31.54,32.84l-7.54,-2.84l-7.54,2.87a6.76,6.76 0 0 0 -4.35,6.31l0,5.82l23.78,0l0,-5.85a6.76,6.76 0 0 0 -4.35,-6.31z" class="cls-5"/>
+  <polygon fill="none" stroke-linejoin="round" stroke-linecap="round" stroke="#45413c" id="svg_5" points="30.23 35.83 32.36 35.3 30.81 32.56 24 29.97 17.19 32.56 15.64 35.3 17.77 35.83 17.05 38.05 21.92 45 26.08 45 30.95 38.05 30.23 35.83" class="cls-5"/>
+  <polygon fill="#ffffff" stroke-linejoin="round" stroke-linecap="round" stroke="#45413c" id="svg_6" points="24 36.16 21.11 38.59 21.92 45 26.08 45 26.89 38.59 24 36.16" class="cls-6"/>
+  <path fill="#ffffff" stroke-linejoin="round" stroke-linecap="round" stroke="#45413c" id="svg_7" d="m24,30s-5,0 -5,2.82a9.94,9.94 0 0 0 2.16,5.77l2.84,-2.43l2.89,2.43a9.94,9.94 0 0 0 2.16,-5.77c0,-2.82 -5.05,-2.82 -5.05,-2.82z" class="cls-6"/>
+  <polygon fill="#656769" stroke-linejoin="round" stroke-linecap="round" stroke="#45413c" id="svg_8" points="24 36.16 22.19 37.68 23.2 39.49 24.8 39.49 25.81 37.68 24 36.16" class="cls-7"/>
+  <polygon fill="#656769" stroke-linejoin="round" stroke-linecap="round" stroke="#45413c" id="svg_9" points="24.8 39.49 23.2 39.49 21.92 45 26.08 45 24.8 39.49" class="cls-7"/>
+  <path fill="#ffe500" stroke-linejoin="round" stroke-linecap="round" stroke="#45413c" id="_Path_2" d="m34.15,40.79l-5.84,0l0.42,1.3a0.71,0.71 0 0 0 0.66,0.53l3.69,0a0.7,0.7 0 0 0 0.65,-0.53l0.42,-1.3z" class="cls-8"/>
+  <circle fill="#ffe500" stroke-linejoin="round" stroke-linecap="round" stroke="#45413c" r="0.91" id="_Path_3" cy="41.71" cx="31.23" class="cls-8"/>
+  <path fill="#ffe500" id="svg_10" d="m24,27.17a2.54,2.54 0 0 0 -2.54,2.55l0,2.85c0,1.4 2.54,3.59 2.54,3.59s2.54,-2.19 2.54,-3.59l0,-2.85a2.54,2.54 0 0 0 -2.54,-2.55z" class="cls-9"/>
+  <path fill="#ebcb00" id="_Path_4" d="m24,27.17a2.54,2.54 0 0 0 -2.54,2.54l0,0.6a2.54,2.54 0 0 0 5.08,0l0,-0.59a2.54,2.54 0 0 0 -2.54,-2.55z" class="cls-10"/>
+  <path fill="none" stroke-linejoin="round" stroke-linecap="round" stroke="#45413c" id="svg_11" d="m24,27.17a2.54,2.54 0 0 0 -2.54,2.55l0,2.85c0,1.4 2.54,3.59 2.54,3.59s2.54,-2.19 2.54,-3.59l0,-2.85a2.54,2.54 0 0 0 -2.54,-2.55z" class="cls-5"/>
+  <path fill="#ffe500" stroke-linejoin="round" stroke-linecap="round" stroke="#45413c" id="_Path_5" d="m33.06,19.46a8.72,8.72 0 0 1 -5.67,-5l-0.62,-1.46a15.9,15.9 0 0 1 -9.95,6.17l-1.89,0.34a1.82,1.82 0 0 0 0,3.63l0.12,0a9,9 0 0 0 17.9,0l0.11,0a1.82,1.82 0 1 0 0,-3.63l0,-0.05z" class="cls-8"/>
+  <path fill="#45413c" stroke-linejoin="round" stroke-linecap="round" stroke="#45413c" id="_Path_6" d="m18.57,20.91a0.77,0.77 0 0 0 1.54,0a0.77,0.77 0 1 0 -1.54,0z" class="cls-11"/>
+  <path fill="#45413c" stroke-linejoin="round" stroke-linecap="round" stroke="#45413c" id="_Path_7" d="m29.43,20.91a0.77,0.77 0 0 1 -1.54,0a0.77,0.77 0 1 1 1.54,0z" class="cls-11"/>
+  <path fill="#ff6242" id="_Path_8" d="m21.16,25.6a0.46,0.46 0 0 0 -0.33,0.15a0.43,0.43 0 0 0 -0.1,0.36a3.32,3.32 0 0 0 6.54,0a0.43,0.43 0 0 0 -0.1,-0.36a0.46,0.46 0 0 0 -0.33,-0.15l-5.68,0z" class="cls-12"/>
+  <path fill="#ffa694" id="_Path_9" d="m24,27a4.11,4.11 0 0 0 -2.52,0.77a3.34,3.34 0 0 0 5,0a4.11,4.11 0 0 0 -2.48,-0.77z" class="cls-13"/>
+  <path fill="none" stroke-linejoin="round" stroke-linecap="round" stroke="#45413c" id="_Path_10" d="m21.16,25.6a0.46,0.46 0 0 0 -0.33,0.15a0.43,0.43 0 0 0 -0.1,0.36a3.32,3.32 0 0 0 6.54,0a0.43,0.43 0 0 0 -0.1,-0.36a0.45,0.45 0 0 0 -0.33,-0.15l-5.68,0z" class="cls-5"/>
+  <ellipse fill="#ffaa54" ry="0.6" rx="1" id="_Ellipse_2" cy="24.19" cx="18.06" class="cls-14"/>
+  <ellipse fill="#ffaa54" ry="0.6" rx="1" id="_Ellipse_3" cy="24.19" cx="29.94" class="cls-14"/>
+  <path fill="#656769" stroke-linejoin="round" stroke-linecap="round" stroke="#45413c" id="_Path_11" d="m24,15.12a38.32,38.32 0 0 0 -8.72,0.81c1.61,1.35 0.9,3 8.72,3s7.11,-1.68 8.72,-3a38.32,38.32 0 0 0 -8.72,-0.81z" class="cls-7"/>
+  <path fill="#656769" id="_Path_12" d="m24,3.68c-6.21,0 -11.88,4.91 -11.88,7.84a3.63,3.63 0 0 0 1.88,2.84c0.95,-0.77 5.07,-1.35 10,-1.35s9.07,0.58 10,1.35a3.63,3.63 0 0 0 1.86,-2.84c0.02,-2.93 -5.65,-7.84 -11.86,-7.84z" class="cls-3"/>
+  <path fill="#87898c" id="_Path_13" d="m24,6.13c5.37,0 10.34,3.68 11.58,6.57a2.52,2.52 0 0 0 0.3,-1.18c0,-2.93 -5.67,-7.84 -11.88,-7.84s-11.88,4.91 -11.88,7.84a2.52,2.52 0 0 0 0.3,1.18c1.24,-2.89 6.21,-6.57 11.58,-6.57z" class="cls-15"/>
+  <path fill="none" stroke-linejoin="round" stroke-linecap="round" stroke="#45413c" id="_Path_14" d="m24,3.68c-6.21,0 -11.88,4.91 -11.88,7.84a3.63,3.63 0 0 0 1.88,2.84c0.95,-0.77 5.07,-1.35 10,-1.35s9.07,0.58 10,1.35a3.63,3.63 0 0 0 1.86,-2.84c0.02,-2.93 -5.65,-7.84 -11.86,-7.84z" class="cls-5"/>
+  <path fill="#ffe500" stroke-linejoin="round" stroke-linecap="round" stroke="#45413c" id="_Path_15" d="m13.78,16.81c0,-0.93 4.57,-1.69 10.22,-1.69s10.22,0.76 10.22,1.69l0,-2.11c0,-0.93 -4.57,-1.7 -10.22,-1.7s-10.22,0.76 -10.22,1.69l0,2.12z" class="cls-8"/>
+  <path fill="#525252" stroke-linejoin="round" stroke-linecap="round" stroke="#45413c" id="_Path_16" d="m24,13c4.43,0 8.21,0.47 9.62,1.12c-0.32,-2.42 -4.5,-4.35 -9.62,-4.35s-9.3,1.93 -9.62,4.36c1.41,-0.65 5.19,-1.13 9.62,-1.13z" class="cls-16"/>
+  <path fill="#ffe500" stroke-linejoin="round" stroke-linecap="round" stroke="#45413c" id="_Path_17" d="m27.64,8.86l-7.28,0l0.52,1.29a0.87,0.87 0 0 0 0.81,0.53l4.62,0a0.87,0.87 0 0 0 0.81,-0.53l0.52,-1.29z" class="cls-8"/>
+  <path fill="#ffe500" stroke-linejoin="round" stroke-linecap="round" stroke="#45413c" id="_Path_18" d="m28.66,7.05l-9.32,0l0.66,1.29a1.17,1.17 0 0 0 1,0.52l6,0a1.17,1.17 0 0 0 1,-0.52l0.66,-1.29z" class="cls-8"/>
+  <path fill="#ffe500" stroke-linejoin="round" stroke-linecap="round" stroke="#45413c" id="_Path_19" d="m25.51,9.17a1.51,1.51 0 0 1 -1.9,1.46a1.55,1.55 0 0 1 -1.12,-1.52l0,-0.55a1.51,1.51 0 0 1 1.51,-1.51l0,0a1.51,1.51 0 0 1 1.51,1.51l0,0.61z" class="cls-8"/>
+ </g>
+</svg>

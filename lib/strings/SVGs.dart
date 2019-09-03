@@ -1,0 +1,72 @@
+const List<String> animalsSVG = [
+  'Cow',
+  'Dog',
+  'Duck',
+  'Elephant',
+  'Bull',
+  'Giraffe',
+  'Lion',
+  'Monkey',
+  'Mouse',
+  'Tiger'
+];
+const List<String> weathersSVG = [
+  'Cloud',
+  'Cloudy',
+  'Lightning',
+  'Moon',
+  'Rain',
+  'Rainbow',
+  'Rainy',
+  'Snow',
+  'Snowy',
+  'Sun'
+];
+const List<String> foodsSVG = [
+  'Apple',
+  'Bread',
+  'Cheese',
+  'Donut',
+  'Egg',
+  'Fries',
+  'Grapes',
+  'Mushroom',
+  'Pizza',
+  'Steak'
+];
+const List<String> flagsSVG = [
+  'Belgium',
+  'France',
+  'Germany',
+  'Iceland',
+  'Ireland',
+  'Italy',
+  'Japan',
+  'Netherlands',
+  'Russia',
+  'Sweden'
+];
+const List<String> transportationsSVG = [
+  'Airplane',
+  'Ambulance',
+  'Boat',
+  'Car',
+  'Helicopter',
+  'Metro',
+  'Rocket',
+  'Scooter',
+  'Ship',
+  'Truck'
+];
+const List<String> jobsSVG = [
+  'Artist',
+  'Astronaut',
+  'Cook',
+  'Doctor',
+  'Farmer',
+  'Firefighter',
+  'Judge',
+  'Pilot',
+  'Scientist',
+  'Singer'
+];

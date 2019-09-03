@@ -1,0 +1,33 @@
+<svg width="150" height="150" xmlns="http://www.w3.org/2000/svg">
+ <title/>
+
+ <g>
+  <title>background</title>
+  <rect fill="none" id="canvas_background" height="12.416349" width="12.416349" y="-1" x="-1"/>
+ </g>
+ <g>
+  <title>Layer 1</title>
+  <ellipse stroke-width="4px" stroke-miterlimit="10" stroke="#000000" fill="#b26f2d" id="svg_1" transform="matrix(0.98,-0.17,0.17,0.98,-5.78,6.72) " ry="24.22" rx="19.37" cy="36.38" cx="35.51" class="cls-1"/>
+  <path fill="#d8985d" id="svg_2" d="m39.67,51.53a8.45,8.45 0 0 1 -1.42,0.38c-6.18,1.09 -12.66,-5.1 -14.15,-13.52c-1.37,-7.78 1.74,-15.16 7.25,-17.17a8.45,8.45 0 0 1 1.42,-0.38a10.11,10.11 0 0 1 8.42,2.77a18.53,18.53 0 0 1 5.73,10.75c1.37,7.79 -1.75,15.17 -7.25,17.17z" class="cls-2"/>
+  <ellipse stroke-width="4px" stroke-miterlimit="10" stroke="#000000" fill="#b26f2d" id="svg_3" transform="rotate(-80 58.790000915527365,142.80999755859378) " ry="19.37" rx="24.22" cy="179.189998" cx="173.280001" class="cls-1"/>
+  <path fill="#d8985d" id="svg_4" d="m113.22,52a8.45,8.45 0 0 1 -1.46,-0.13c-6.18,-1.09 -10.15,-9.13 -8.67,-17.55c1.37,-7.78 6.82,-13.65 12.68,-13.65a8.45,8.45 0 0 1 1.46,0.13a10.11,10.11 0 0 1 7,5.48a18.53,18.53 0 0 1 1.71,12.06c-1.41,7.83 -6.87,13.66 -12.72,13.66z" class="cls-2"/>
+  <path fill="#dd852f" stroke-width="4px" stroke-miterlimit="10" stroke="#000000" id="svg_5" d="m27.26,100.24c-15,-24.37 1.22,-74 24,-79c4.41,-12.61 20.11,-12.84 20.11,-12.84c-3.04,5.68 -2.37,10.08 -2.37,10.08c6.8,-8.2 18.28,-7 18.28,-7c-0.7,7.58 16.64,8.67 27.07,20.74s19.1,28.48 12.19,59.53c-3,-6 -6.21,-6.09 -6.21,-6.09c-0.47,23 -21.91,51.18 -38.44,55.4c0.79,-9.92 -1.76,-13.24 -3.75,-14.41c0.94,5.86 -2.71,11.6 -2.71,11.6c-30.46,-7.27 -40,-21.68 -42.34,-51.09c-5.32,7.92 -5.83,13.08 -5.83,13.08z" class="cls-3"/>
+  <path fill="#f2c497" id="svg_7" d="m119.82,64c0,7.65 -1.95,10.4 -8.32,17s-15.5,13.88 -34.2,13.88l-1.66,0c-18.69,0 -27.83,-7.27 -34.2,-13.86s-8.32,-9.34 -8.32,-17c0,-14.77 15.12,-33.53 39.52,-33.53c0.28,0 3.55,4.09 3.83,4.1s3.53,-4.09 3.83,-4.09c24.4,0 39.52,18.76 39.52,33.5z" class="cls-5"/>
+  <ellipse stroke-width="2px" fill="#f2c497" stroke-miterlimit="10" stroke="#000000" id="svg_6" ry="11" rx="16.81" cy="105.75" cx="75.46" class="cls-4"/>
+  <path fill="#efdfc4" stroke-width="2px" stroke-miterlimit="10" stroke="#000000" id="svg_8" d="m102.47,91.66c0,11 -8.81,23.17 -26.84,12.56c-18,10.61 -26.84,-1.53 -26.84,-12.56s8.81,-20 26.84,-20s26.84,8.96 26.84,20z" class="cls-6"/>
+  <circle id="svg_11" transform="rotate(-80 -9.8100004196167,107.91999816894531) " r="0" cy="167.719998" cx="49.59"/>
+  <circle id="svg_12" transform="rotate(-10 -8.960000038146987,17.180000305175774) " r="0" cy="76.98" cx="84.75"/>
+  <path fill="#4c331c" id="svg_13" d="m84.7,77.64c0,3.73 -5.33,9.42 -9.07,9.42s-9.07,-5.68 -9.07,-9.42s5.33,-4.1 9.07,-4.1s9.07,0.37 9.07,4.1z" class="cls-8"/>
+  <line stroke-linecap="round" fill="none" stroke-width="2px" stroke-miterlimit="10" stroke="#000000" id="svg_14" y2="87.77" y1="104.22" x2="75.64" x1="75.64" class="cls-9"/>
+  <line fill="none" stroke-miterlimit="10" stroke="#000000" id="svg_15" y2="85.09" y1="90.9" x2="95.14" x1="83.33" class="cls-10"/>
+  <line fill="none" stroke-miterlimit="10" stroke="#000000" id="svg_16" y2="93.67" y1="93.67" x2="97.14" x1="84.74" class="cls-10"/>
+  <line fill="none" stroke-miterlimit="10" stroke="#000000" id="svg_17" y2="102.24" y1="96.43" x2="95.14" x1="83.33" class="cls-10"/>
+  <line fill="none" stroke-miterlimit="10" stroke="#000000" id="svg_18" y2="85.09" y1="90.9" x2="55.78" x1="66.59" class="cls-10"/>
+  <line fill="none" stroke-miterlimit="10" stroke="#000000" id="svg_19" y2="93.67" y1="93.67" x2="53.78" x1="65.19" class="cls-10"/>
+  <line fill="none" stroke-miterlimit="10" stroke="#000000" id="svg_20" y2="102.24" y1="96.43" x2="55.78" x1="66.59" class="cls-10"/>
+  <circle class="cls-6" cx="54.756111" cy="56.98785" r="10.57" id="svg_6" stroke="#000000" stroke-miterlimit="10" stroke-width="2px" fill="#ffffff"/>
+  <circle stroke="#000000" class="cls-6" cx="98.716111" cy="56.98785" r="10.57" id="svg_7" stroke-miterlimit="10" stroke-width="2px" fill="#ffffff"/>
+  <circle cx="57.076111" cy="56.98785" r="5.92" id="svg_8"/>
+  <circle cx="96.396111" cy="56.98785" r="5.92" id="svg_9"/>
+ </g>
+</svg>

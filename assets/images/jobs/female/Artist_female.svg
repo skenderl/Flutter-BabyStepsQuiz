@@ -1,0 +1,59 @@
+<svg width="48" height="48" xmlns="http://www.w3.org/2000/svg">
+
+ <title/>
+ <g>
+  <title>background</title>
+  <rect fill="none" id="canvas_background" height="402" width="582" y="-1" x="-1"/>
+ </g>
+ <g>
+  <title>Layer 1</title>
+  <path stroke-linejoin="round" stroke-linecap="round" stroke="#45413c" fill="#724f3d" id="_Path_" d="m34.11,32.54l0,0a27.18,27.18 0 0 1 -20.22,0l0,0a1.24,1.24 0 0 1 -0.77,-1.14l0,-14.19a10.88,10.88 0 0 1 10.88,-10.88l0,0a10.88,10.88 0 0 1 10.88,10.88l0,14.19a1.23,1.23 0 0 1 -0.77,1.14z" class="cls-1"/>
+  <ellipse opacity="0.15" fill="#45413c" ry="1.5" rx="17" id="_Ellipse_" cy="45.5" cx="23.34" class="cls-2"/>
+  <path fill="#ffffff" id="_Rectangle_" d="m24,31.22l0,0a11.88,11.88 0 0 1 11.88,11.88l0,1.9a0,0 0 0 1 0,0l-23.76,0a0,0 0 0 1 0,0l0,-1.9a11.88,11.88 0 0 1 11.88,-11.88z" class="cls-3"/>
+  <path fill="#f0f0f0" id="svg_1" d="m24,31.22a11.88,11.88 0 0 0 -11.88,11.88l0,1.9l0.11,0a11.88,11.88 0 0 1 23.54,0l0.11,0l0,-1.9a11.88,11.88 0 0 0 -11.88,-11.88z" class="cls-4"/>
+  <path fill="none" stroke-linejoin="round" stroke-linecap="round" stroke="#45413c" id="_Rectangle_2" d="m24,31.22l0,0a11.88,11.88 0 0 1 11.88,11.88l0,1.9a0,0 0 0 1 0,0l-23.76,0a0,0 0 0 1 0,0l0,-1.9a11.88,11.88 0 0 1 11.88,-11.88z" class="cls-5"/>
+  <ellipse fill="#00dba8" ry="3.54" rx="4.71" id="_Path_2" cy="33.65" cx="24" class="cls-6"/>
+  <path fill="#00ad85" id="_Path_3" d="m24,30.11a4.75,4.75 0 0 0 -4.5,2.49a4.74,4.74 0 0 0 4.5,2.5a4.74,4.74 0 0 0 4.5,-2.5a4.75,4.75 0 0 0 -4.5,-2.49z" class="cls-7"/>
+  <ellipse fill="none" stroke-linejoin="round" stroke-linecap="round" stroke="#45413c" ry="3.54" rx="4.71" id="_Path_4" cy="33.65" cx="24" class="cls-5"/>
+  <path fill="#ffe500" id="svg_2" d="m24,27.16a2.54,2.54 0 0 0 -2.54,2.55l0,2.84a2.54,2.54 0 1 0 5.08,0l0,-2.84a2.54,2.54 0 0 0 -2.54,-2.55z" class="cls-8"/>
+  <path fill="#ebcb00" id="_Path_5" d="m24,27.16a2.54,2.54 0 0 0 -2.54,2.54l0,0.6a2.54,2.54 0 0 0 5.08,0l0,-0.59a2.54,2.54 0 0 0 -2.54,-2.55z" class="cls-9"/>
+  <path fill="none" stroke-linejoin="round" stroke-linecap="round" stroke="#45413c" id="svg_3" d="m24,27.16a2.54,2.54 0 0 0 -2.54,2.55l0,2.84a2.54,2.54 0 1 0 5.08,0l0,-2.84a2.54,2.54 0 0 0 -2.54,-2.55z" class="cls-5"/>
+  <line fill="none" stroke-linejoin="round" stroke-linecap="round" stroke="#45413c" y2="42.59" y1="45" x2="17.06" x1="17.06" id="_Path_6" class="cls-5"/>
+  <line fill="none" stroke-linejoin="round" stroke-linecap="round" stroke="#45413c" y2="42.58" y1="45" x2="30.94" x1="30.94" id="_Path_7" class="cls-5"/>
+  <path fill="#00dba8" stroke-linejoin="round" stroke-linecap="round" stroke="#45413c" id="_Path_8" d="m26.1,37.08a4,4 0 0 0 2,1.44c1.3,0.36 2.14,-0.18 2.7,0.17c-0.82,-2.26 -2.76,-3.43 -4,-2.86s-0.7,1.25 -0.7,1.25z" class="cls-10"/>
+  <path fill="#00dba8" stroke-linejoin="round" stroke-linecap="round" stroke="#45413c" id="_Path_9" d="m25,37.12a4.71,4.71 0 0 0 -0.39,2.88c0.36,1.53 1.37,2.09 1.33,2.86c1.86,-2.1 2,-4.74 0.7,-5.7s-1.64,-0.04 -1.64,-0.04z" class="cls-10"/>
+  <path fill="#00dba8" stroke-linejoin="round" stroke-linecap="round" stroke="#45413c" id="_Path_10" d="m24,35.1a1.78,1.78 0 0 1 0.81,0.83a4,4 0 0 1 0.19,1.19a2.29,2.29 0 0 0 1.85,0a1.78,1.78 0 0 0 0.47,-2.56c-0.68,-0.88 -2.15,-1.08 -3.32,0.54z" class="cls-10"/>
+  <path fill="#debb7e" id="_Path_11" d="m7.25,45s-6.65,-7.58 -0.92,-8.45c6.21,-0.93 13,8.45 13,8.45l-12.08,0z" class="cls-11"/>
+  <path fill="#f0d5a8" id="_Path_12" d="m6.33,39.4c3.92,-0.59 8.05,2.92 10.57,5.6l2.39,0s-6.75,-9.38 -13,-8.45c-2.54,0.39 -2.65,2.08 -2,3.86a2.73,2.73 0 0 1 2.04,-1.01z" class="cls-12"/>
+  <path fill="none" stroke-linejoin="round" stroke-linecap="round" stroke="#45413c" id="_Path_13" d="m7.25,45s-6.65,-7.58 -0.92,-8.45c6.21,-0.93 13,8.45 13,8.45l-12.08,0z" class="cls-5"/>
+  <ellipse fill="#ff6242" stroke-linejoin="round" stroke-linecap="round" stroke="#45413c" transform="rotate(-55.029998779296875 -28.38999938964843,24.17000007629395) " ry="1.71" rx="0.89" id="_Path_14" cy="63.5" cx="-19.389999" class="cls-13"/>
+  <ellipse fill="#ffe500" stroke-linejoin="round" stroke-linecap="round" stroke="#45413c" transform="rotate(-55.029998779296875 -28.42000007629395,28.98999977111816) " ry="1.71" rx="0.89" id="_Path_15" cy="70.77" cx="-14.81" class="cls-14"/>
+  <polygon fill="#daedf7" stroke-linejoin="round" stroke-linecap="round" stroke="#45413c" points="39.04 36.34 36.94 35.82 38.39 28.88 40.98 29.52 39.04 36.34" id="_Path_16" class="cls-15"/>
+  <rect fill="#bf8256" stroke-linejoin="round" stroke-linecap="round" stroke="#45413c" y="28.28" x="46.56" width="2.17" transform="rotate(13.8100004196167 10.640000343322743,-7.679999828338618) " id="_Rectangle_3" height="8.25" class="cls-16"/>
+  <path fill="#fff5e3" stroke-linejoin="round" stroke-linecap="round" stroke="#45413c" id="_Path_17" d="m38.39,28.88c-0.65,-1.24 0.18,-2.76 1.13,-3.54a3.58,3.58 0 0 0 1.26,-1.84a3.71,3.71 0 0 1 1.52,3.77a3.38,3.38 0 0 1 -1.3,2.25l-2.61,-0.64z" class="cls-17"/>
+  <path fill="#ff6242" stroke-linejoin="round" stroke-linecap="round" stroke="#45413c" id="_Path_18" d="m38.73,26.21a6.17,6.17 0 0 0 1.64,0.65a6.25,6.25 0 0 0 2,0.17a3.75,3.75 0 0 0 -1.57,-3.53a3.58,3.58 0 0 1 -1.26,1.84a3.91,3.91 0 0 0 -0.81,0.87z" class="cls-13"/>
+  <path fill="#ffe500" id="_Rectangle_4" d="m35.1358,36.2756l0,0a1.4938,1.4938 0 0 1 1.1242,1.8634l-1.6152,6.5281a0,0 0 0 1 0,0l0,0a2.2698,2.2698 0 0 1 -1.7082,-2.8314l1.2408,-5.0149a0.7663,0.7663 0 0 1 0.9559,-0.5767l0.0025,0.0315z" class="cls-8"/>
+  <path fill="#fff48c" id="_Path_19" d="m35.22,36.27a0.78,0.78 0 0 0 -1,0.58l-0.46,1.86a0.79,0.79 0 0 1 1,-0.58a1.53,1.53 0 0 1 1.13,1.87l0.46,-1.86a1.54,1.54 0 0 0 -1.13,-1.87z" class="cls-18"/>
+  <path fill="none" stroke-linejoin="round" stroke-linecap="round" stroke="#45413c" id="_Rectangle_5" d="m35.1358,36.2756l0,0a1.4938,1.4938 0 0 1 1.1242,1.8634l-1.6152,6.5281a0,0 0 0 1 0,0l0,0a2.2698,2.2698 0 0 1 -1.7082,-2.8314l1.2408,-5.0149a0.7663,0.7663 0 0 1 0.9559,-0.5767l0.0025,0.0315z" class="cls-5"/>
+  <path fill="#ffe500" id="_Path_20" d="m38.9,38.59l-1.9,-0.48a1.15,1.15 0 0 0 -0.6,2.22a1.15,1.15 0 0 0 -0.49,2.24a1.15,1.15 0 1 0 -0.55,2.24l1.93,0.47l0,0a2.19,2.19 0 0 0 2.65,-1.6l0.6,-2.44a2.19,2.19 0 0 0 -1.6,-2.65l-0.04,0z" class="cls-8"/>
+  <path fill="#fff48c" id="_Path_21" d="m38.9,38.59l-1.9,-0.48a1.15,1.15 0 0 0 -1.39,0.85a1.07,1.07 0 0 0 0,0.59a1.15,1.15 0 0 1 1.09,-0.33l1.94,0.48a2.18,2.18 0 0 1 1.6,2.64l0.27,-1.1a2.19,2.19 0 0 0 -1.61,-2.65z" class="cls-18"/>
+  <path fill="none" stroke-linejoin="round" stroke-linecap="round" stroke="#45413c" id="_Path_22" d="m38.9,38.59l-1.9,-0.48a1.15,1.15 0 0 0 -0.6,2.22a1.15,1.15 0 0 0 -0.49,2.24a1.15,1.15 0 1 0 -0.55,2.24l1.93,0.47l0,0a2.19,2.19 0 0 0 2.65,-1.6l0.6,-2.44a2.19,2.19 0 0 0 -1.6,-2.65l-0.04,0z" class="cls-5"/>
+  <path fill="#ffe500" stroke-linejoin="round" stroke-linecap="round" stroke="#45413c" id="_Path_23" d="m33.07,19.48a8.77,8.77 0 0 1 -5.68,-5l-0.62,-1.48a15.92,15.92 0 0 1 -9.95,6.18l-1.88,0.34a1.82,1.82 0 1 0 0,3.63l0.11,0a9.05,9.05 0 0 0 17.91,0l0.11,0a1.82,1.82 0 0 0 0,-3.63l0,-0.04z" class="cls-14"/>
+  <path fill="#45413c" stroke-linejoin="round" stroke-linecap="round" stroke="#45413c" id="_Path_24" d="m18.57,20.92a0.77,0.77 0 1 0 0.77,-0.77a0.77,0.77 0 0 0 -0.77,0.77z" class="cls-19"/>
+  <path fill="#45413c" stroke-linejoin="round" stroke-linecap="round" stroke="#45413c" id="_Path_25" d="m29.44,20.92a0.78,0.78 0 1 1 -0.78,-0.77a0.78,0.78 0 0 1 0.78,0.77z" class="cls-19"/>
+  <path fill="#ff6242" id="_Path_26" d="m21.17,25.62a0.45,0.45 0 0 0 -0.34,0.15a0.47,0.47 0 0 0 -0.1,0.36a3.32,3.32 0 0 0 6.55,0a0.44,0.44 0 0 0 -0.11,-0.36a0.41,0.41 0 0 0 -0.33,-0.15l-5.67,0z" class="cls-20"/>
+  <path fill="#ffa694" id="_Path_27" d="m24,27a4,4 0 0 0 -2.52,0.77a3.34,3.34 0 0 0 5,0a4,4 0 0 0 -2.48,-0.77z" class="cls-21"/>
+  <path fill="none" stroke-linejoin="round" stroke-linecap="round" stroke="#45413c" id="_Path_28" d="m21.17,25.62a0.45,0.45 0 0 0 -0.34,0.15a0.47,0.47 0 0 0 -0.1,0.36a3.32,3.32 0 0 0 6.55,0a0.44,0.44 0 0 0 -0.11,-0.36a0.41,0.41 0 0 0 -0.33,-0.15l-5.67,0z" class="cls-5"/>
+  <ellipse fill="#ffaa54" ry="0.6" rx="1" id="_Ellipse_2" cy="24.21" cx="18.06" class="cls-22"/>
+  <ellipse fill="#ffaa54" ry="0.6" rx="1" id="_Ellipse_3" cy="24.21" cx="29.94" class="cls-22"/>
+  <path fill="#8ca4b8" id="_Path_29" d="m13.21,16c0,-1.06 4.85,-1.92 10.82,-1.92s10.82,0.86 10.82,1.92l-0.35,-3.84c0,-1.05 -4.68,-1.91 -10.47,-1.91s-10.47,0.86 -10.47,1.91l-0.35,3.84z" class="cls-23"/>
+  <path fill="#627b8c" id="_Path_30" d="m13.22,15.94a0.13,0.13 0 0 0 0,0.06l0,-0.06z" class="cls-24"/>
+  <path fill="#627b8c" id="_Path_31" d="m24,10.25c-5.78,0 -10.47,0.86 -10.47,1.91l-0.34,3.78c0.17,-1 4.94,-1.86 10.81,-1.86l1.68,0a20.52,20.52 0 0 0 5.68,-3.3a43.73,43.73 0 0 0 -7.36,-0.53z" class="cls-24"/>
+  <path fill="none" stroke-linejoin="round" stroke-linecap="round" stroke="#45413c" id="_Path_32" d="m13.21,16c0,-1.06 4.85,-1.92 10.82,-1.92s10.82,0.86 10.82,1.92l-0.35,-3.84c0,-1.05 -4.68,-1.91 -10.47,-1.91s-10.47,0.86 -10.47,1.91l-0.35,3.84z" class="cls-5"/>
+  <path fill="#8ca4b8" id="_Path_33" d="m35.86,7.29c-2.23,-3.35 -7.86,-4.23 -11.86,-3.92a29.29,29.29 0 0 0 -13,4.71c-1.83,1.3 -2.46,2.6 -1.93,3.39c1.12,2 7.07,2.47 16.18,-1.21c5.19,0.11 9.22,0.92 9.22,1.9c0.03,0 3.35,-1.91 1.39,-4.87z" class="cls-23"/>
+  <path fill="#adc4d9" id="_Path_34" d="m9.5,12a7.1,7.1 0 0 1 1.5,-1.45a29.17,29.17 0 0 1 13,-4.71c4,-0.31 9.6,0.57 11.83,3.92a4.46,4.46 0 0 1 0.33,0.6a2.94,2.94 0 0 0 -0.33,-3.07c-2.2,-3.35 -7.83,-4.23 -11.83,-3.92a29.29,29.29 0 0 0 -13,4.71c-1.83,1.3 -2.46,2.6 -1.93,3.39a2,2 0 0 0 0.43,0.53z" class="cls-25"/>
+  <path fill="none" stroke-linejoin="round" stroke-linecap="round" stroke="#45413c" id="_Path_35" d="m35.86,7.29c-2.23,-3.35 -7.86,-4.23 -11.86,-3.92a29.29,29.29 0 0 0 -13,4.71c-1.83,1.3 -2.46,2.6 -1.93,3.39c1.12,2 7.07,2.47 16.18,-1.21c5.19,0.11 9.22,0.92 9.22,1.9c0.03,0 3.35,-1.91 1.39,-4.87z" class="cls-5"/>
+  <path fill="none" stroke-linejoin="round" stroke-linecap="round" stroke="#45413c" id="_Path_36" d="m25.28,10.26c1.41,-0.57 2.89,-1.23 4.44,-2" class="cls-5"/>
+  <ellipse fill="#627b8c" stroke-linejoin="round" stroke-linecap="round" stroke="#45413c" transform="rotate(-6.110000133514404 -0.21999999880790455,2.5799999237060547) " ry="1.09" rx="1.73" id="_Path_37" cy="5.95" cx="23.81" class="cls-26"/>
+ </g>
+</svg>
